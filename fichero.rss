@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+
+		<atom:link href="" rel="self" type="application/rss+xml" />
+		<title>LMSGI03 - RSS FEED</title>
+		<link></link>
+		<description>Ejercicio de sindicación de contenidos</description>
+
+		<item>
+			<title>El Tiempo</title>
+			<guid>http://www.eltiempo24.es</guid>
+			<description>Noticias relacionadas con el tiempo meteorológico</description>
+		</item>
+
+		<item>
+			<title>Lecturalia: noticia</title>
+			<guid>http://www.lecturalia.com/blog/2015/01/20/bond-el-robotizado-arte-de-la-caligrafia/</guid>
+			<description>El robotizado arte de la caligrafía</description>
+		</item>
+		
+	</channel>
+</rss>
