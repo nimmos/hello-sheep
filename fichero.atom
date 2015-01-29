@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
 
-	<id>https://raw.githubusercontent.com/nimmos/hello-sheep/master/fichero.atom/</id>
+	<id>https://raw.githubusercontent.com/nimmos/hello-sheep/master/fichero.atom</id>
 	<title>LMSGI03 - ATOM FEED</title>
 	<link href="https://raw.githubusercontent.com/nimmos/hello-sheep/master/fichero.atom" rel="self"></link>
 	<updated>2015-01-29T14:54:00Z</updated>
