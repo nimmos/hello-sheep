@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+
+	<id>https://raw.githubusercontent.com/nimmos/hello-sheep/master/fichero.atom/</id>
+	<title>LMSGI03 - ATOM FEED</title>
+	<link href="https://raw.githubusercontent.com/nimmos/hello-sheep/master/fichero.atom" rel="self"></link>
+	<updated>2015-01-29T14:54:00Z</updated>
+	<author>
+		<name>daniel.sanver</name>
+		<email>nisanvera23@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>El Tiempo</title>
+		<id>http://www.eltiempo24.es/</id>
+		<link href="http://www.eltiempo24.es" rel="self"></link>
+		<updated>2015-01-29T14:51:00Z</updated>
+		<author>
+			<name>La Vanguardia</name>
+		</author>
+		<summary>Noticias relacionadas con el tiempo meteorológico</summary>
+	</entry>
+
+	<entry>
+		<title>GitHub: blog</title>
+		<id>https://github.com/blog/1948-git-merge-returns-april-8-9th-in-paris/</id>
+		<link href="https://github.com/blog/1948-git-merge-returns-april-8-9th-in-paris" rel="self"></link>
+		<updated>2015-01-29T14:54:00Z</updated>
+		<author>
+			<name>GitHub</name>
+		</author>
+		<summary>Convención GitMerge 2015</summary>
+	</entry>
+
+</feed>
