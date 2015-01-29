@@ -13,7 +13,7 @@
 	<entry>
 		<title>El Tiempo</title>
 		<id>http://www.eltiempo24.es/</id>
-		<link href="http://www.eltiempo24.es" rel="self"></link>
+		<link href="http://www.eltiempo24.es" rel="alternate"></link>
 		<updated>2015-01-29T14:51:00Z</updated>
 		<author>
 			<name>La Vanguardia</name>
@@ -24,7 +24,7 @@
 	<entry>
 		<title>GitHub: blog</title>
 		<id>https://github.com/blog/1948-git-merge-returns-april-8-9th-in-paris/</id>
-		<link href="https://github.com/blog/1948-git-merge-returns-april-8-9th-in-paris" rel="self"></link>
+		<link href="https://github.com/blog/1948-git-merge-returns-april-8-9th-in-paris" rel="alternate"></link>
 		<updated>2015-01-29T14:54:00Z</updated>
 		<author>
 			<name>GitHub</name>
